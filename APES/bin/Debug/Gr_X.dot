@@ -1,0 +1,11 @@
+graph G{
+X0 -- X1 [ label = "2" ];
+X0 -- X2;
+X0 -- X3;
+X0 -- X4;
+X1 -- X2;
+X1 -- X3 [ label = "2" ];
+X2 -- X3 [ label = "2" ];
+X2 -- X4;
+X3 -- X4;
+}

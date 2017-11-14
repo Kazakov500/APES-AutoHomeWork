@@ -1,0 +1,9 @@
+c:\users\kazakov500\documents\visual studio 2015\Projects\APES\APES\bin\Debug\APES.exe.config
+c:\users\kazakov500\documents\visual studio 2015\Projects\APES\APES\bin\Debug\APES.exe
+c:\users\kazakov500\documents\visual studio 2015\Projects\APES\APES\bin\Debug\APES.pdb
+c:\users\kazakov500\documents\visual studio 2015\Projects\APES\APES\obj\Debug\APES.csprojResolveAssemblyReference.cache
+c:\users\kazakov500\documents\visual studio 2015\Projects\APES\APES\obj\Debug\APES.Form1.resources
+c:\users\kazakov500\documents\visual studio 2015\Projects\APES\APES\obj\Debug\APES.Properties.Resources.resources
+c:\users\kazakov500\documents\visual studio 2015\Projects\APES\APES\obj\Debug\APES.csproj.GenerateResource.Cache
+c:\users\kazakov500\documents\visual studio 2015\Projects\APES\APES\obj\Debug\APES.exe
+c:\users\kazakov500\documents\visual studio 2015\Projects\APES\APES\obj\Debug\APES.pdb
